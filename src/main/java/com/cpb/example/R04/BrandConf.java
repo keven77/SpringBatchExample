@@ -1,4 +1,4 @@
-package com.cpb.example.R01;
+package com.cpb.example.R04;
 
 import java.util.Date;
 
@@ -83,4 +83,5 @@ public class BrandConf {
                 ", dealerId='" + dealerId + '\'' +
                 '}';
     }
+
 }

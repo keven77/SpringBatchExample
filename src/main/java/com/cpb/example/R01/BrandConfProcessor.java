@@ -1,5 +1,6 @@
 package com.cpb.example.R01;
 
+import com.cpb.example.R01.BrandConf;
 import org.springframework.batch.item.ItemProcessor;
 
 public class BrandConfProcessor implements ItemProcessor<BrandConf,BrandConf>{
